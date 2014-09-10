@@ -19,8 +19,7 @@ var config = {
   },
   connections: {
     'my-prana': {
-      adapter: 'prana',
-      prana: new Prana()
+      adapter: 'prana'
     }
   }
 };

@@ -3,7 +3,6 @@
  */
 var waterlineCriteria = require('waterline-criteria');
 var Errors = require('waterline-errors').adapter;
-var Prana = require('../prana/prana');
 var _ = require('lodash');
 
 /**
